@@ -1,0 +1,23 @@
+{
+  "name": "jenkins-actions",
+  "version": "1.0.0",
+  "description": "Get an object containing all actions from a jenkins api result set",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js --cov"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "~5.7.0"
+  },
+  "license": "MIT",
+  "author": "Evan Lucas <evanlucas@me.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evanlucas/jenkins-actions"
+  },
+  "homepage": "https://github.com/evanlucas/jenkins-actions",
+  "bugs": {
+    "url": "https://github.com/evanlucas/jenkins-actions/issues"
+  }
+}
